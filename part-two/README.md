@@ -176,6 +176,8 @@ Now, SSH to your newly created instance once it's finished initialising:
    
     ssh ubuntu@YOUR_ELASTIC_IP_ADDRESS -i ~/.ssh/main.pem
 
+Use 'CTRL+D' or type `exit` to exit your instance.
+
 
 #### Tear down the infrastructure
 
